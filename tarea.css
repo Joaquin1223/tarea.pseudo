@@ -1,0 +1,14 @@
+
+
+#boton::after{
+    content: '>> TIP';
+}
+
+#boton:hover{
+    color:white;
+    background-color: green;
+}
+#boton:before{
+    content:Hecho;
+}
+
